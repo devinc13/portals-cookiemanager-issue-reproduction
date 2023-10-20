@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Portals Playground</string>
     <string name="go_to_portals">Go to Portals view</string>
+    <string name="add_a_cookie">Add a cookie</string>
     <string name="title_main">Portals Playground</string>
     <string name="title_portals">Portals</string>
 </resources>
